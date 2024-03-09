@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Fahad Safdar - Senior Flutter Developer
+# 👋 Hi there! I'm Fahad Safdar - Flutter Developer
 
 Welcome to my GitHub profile! I'm a Flutter developer with a passion for creating elegant and performant mobile applications. Here, you'll find a showcase of my expertise, including personal projects, contributions to open-source, and more.
 
