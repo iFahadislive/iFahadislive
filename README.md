@@ -22,16 +22,13 @@ I specialize in crafting beautiful and robust mobile applications using the Flut
 
 - [![Twitter](https://img.shields.io/twitter/follow/iFahadislive?style=social)](https://twitter.com/iFahadislive) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-iFahadislive-blue)](https://www.linkedin.com/in/your_username) 
-- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4etn-xTux0FsMXYGVKDKYg?style=social&label=YouTube)](https://www.youtube.com/channel/UC4etn-xTux0FsMXYGVKDKYg)
 - [![GitHub](https://img.shields.io/github/followers/iFahadislive?style=social)](https://github.com/iFahadislive)
 
 ## 📺 Flutter Tutorials on YouTube
 
 I regularly share my insights into Flutter development on my YouTube channel. Subscribe for in-depth tutorials, tips, and best practices.
 
-- [YouTube Channel](https://www.youtube.com/channel/UC4etnxTux0FsMXYGVKDKYg)
-
-
+- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4etn-xTux0FsMXYGVKDKYg?style=social&label=YouTube)](https://www.youtube.com/channel/UC4etn-xTux0FsMXYGVKDKYg)
 
 ## 📈 GitHub Stats
 
