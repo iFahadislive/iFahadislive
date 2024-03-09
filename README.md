@@ -29,7 +29,7 @@ I specialize in crafting beautiful and robust mobile applications using the Flut
 
 I regularly share my insights into Flutter development on my YouTube channel. Subscribe for in-depth tutorials, tips, and best practices.
 
-- [![Flutter Tutorials](https://img.shields.io/youtube/views/your_channel/your_video_id?label=Flutter%20Tutorials&style=social)](https://www.youtube.com/channel/UC4etnxTux0FsMXYGVKDKYg)
+- [![Flutter Tutorials](https://img.shields.io/youtube/views/UC4etnxTux0FsMXYGVKDKYg/MKBydRnEOaU&ab?label=Flutter%20Tutorials&style=social)](https://www.youtube.com/channel/UC4etnxTux0FsMXYGVKDKYg)
 
 ## 📈 GitHub Stats
 
