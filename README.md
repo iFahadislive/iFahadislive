@@ -30,9 +30,8 @@ I regularly share my insights into Flutter development on my YouTube channel. Su
 
 - [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4etn-xTux0FsMXYGVKDKYg?style=social&label=YouTube)](https://www.youtube.com/channel/UC4etn-xTux0FsMXYGVKDKYg)
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFahadislive&show_icons=true&theme=dark)
+
 
 ## 🎉 Let's Collaborate!
 
