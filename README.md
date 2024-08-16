@@ -48,17 +48,23 @@ Here's a comprehensive list of technologies and tools I use:
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+>
+> "The best way to predict the future is to invent it." — Alan Kay
+> 
+>  
+
+
 
 ## 🎖️ Achievements & Contributions
 - **Open-Source Contributions**: Actively contributing to Flutter and mobile app development projects.
 - **Community Engagement**: Sharing knowledge through blog posts, YouTube tutorials, and speaking at events.
 - **Certifications**: Earned certifications in Flutter development, Firebase, and mobile app architecture.
 
-## 📺 YouTube Channel - Flutter Tutorials
+##  YouTube Channel - Flutter Tutorials
 As a content creator, I regularly share tutorials, tips, and best practices on my YouTube channel. Whether you're a beginner or an experienced developer, you'll find valuable content here.
 
-**[Subscribe on YouTube](https://youtube.com/@FlutterSmashers)**
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@FlutterSmashers)
 
 ## 🌐 Connect with Me
 I'm always open to networking, collaborations, and new opportunities. Let's connect:
