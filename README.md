@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fahad Safdar - Senior Flutter Developer
 
-Hello! I'm a dedicated Flutter Developer with over 3 years of experience in developing robust and scalable mobile applications. My passion for technology drives my commitment to continuous learning and delivering top-notch solutions.
+I'm a dedicated Flutter Developer with over 4 years of experience in developing robust and scalable mobile applications. My passion for technology drives my commitment to continuous learning and delivering top-notch solutions.
 
 ## 🚀 Professional Overview
 - 💼 **Senior Flutter Developer** with a wealth of experience in delivering successful mobile projects.
