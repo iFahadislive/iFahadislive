@@ -1,89 +1,109 @@
-# 👋 Hi, I'm Fahad Safdar - Senior Flutter Developer
+# 👋 Hi, I'm Fahad Safdar — Senior Flutter Developer
 
-I'm a dedicated Flutter Developer with over 4 years of experience in developing robust and scalable mobile applications. My passion for technology drives my commitment to continuous learning and delivering top-notch solutions.
+I'm a passionate Flutter Developer with over **4 years of hands-on experience** crafting scalable, high-performance mobile applications. I thrive on solving complex problems and building elegant user experiences that make a real impact.
 
-## 🚀 Professional Overview
-- 💼 **Senior Flutter Developer** with a wealth of experience in delivering successful mobile projects.
-- 🔭 Currently working at **[@FlutterSmashers](#)**, contributing to cutting-edge mobile app solutions.
-- 🌱 Always learning and staying updated with the latest advancements in Flutter and mobile technologies.
-- 💬 Open to discussions about **Flutter**, **Dart**, and **mobile development**.
+---
 
-## 🛠️ Tech Stack
-Here's a comprehensive list of technologies and tools I use:
+## 🚀 About Me
+- 💼 **Senior Flutter Developer** at [Flutter Smashers](#), creating cutting-edge apps for Android and iOS.
+- 🎯 Specializing in **cross-platform mobile development**, Firebase integration, and clean architecture.
+- 🌱 Always exploring new tech — recently diving deeper into performance optimization and DevOps for mobile.
+- 🎤 Content creator and mentor, empowering the dev community through tutorials, workshops, and open-source.
+- 🤝 Available for **freelance, collaborations, and consulting** projects.
 
-### **Programming Languages**
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23FF8C00.svg?style=for-the-badge&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) 
+---
 
-### **Backend & Databases**
-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/REST-APIs-%23FF6F00?style=for-the-badge)
+## 🧰 Tech Stack
 
+### 💻 Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Firebase**
-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Cloud_Firestore-%23F6C342.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white) ![Realtime Database](https://img.shields.io/badge/Realtime_Database-%23F6C342.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white) ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-%23F6C342.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+### 🔧 Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Ad Services**
-- ![AdMob](https://img.shields.io/badge/AdMob-%23F6C342.svg?style=for-the-badge&logo=GoogleAds&logoColor=white) ![Facebook Audience](https://img.shields.io/badge/Facebook_Audience-%234267B2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Unity Ads](https://img.shields.io/badge/Unity_Ads-%23000000.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Google Play Store](https://img.shields.io/badge/Google_Play_Store-%23F6C342.svg?style=for-the-badge&logo=GooglePlay&logoColor=white) 
+### 🔥 Firebase Services
+![Auth](https://img.shields.io/badge/Firebase_Auth-FC6C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFB300?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Realtime Database](https://img.shields.io/badge/Realtime_Database-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
+![FCM](https://img.shields.io/badge/Firebase_Messaging-FFA000?style=for-the-badge&logo=googlemessages&logoColor=white)
 
-### **Analytics & Maps**
-- ![Google Analytics](https://img.shields.io/badge/Google_Analytics-%23F6C342.svg?style=for-the-badge&logo=GoogleAnalytics&logoColor=white) ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-%23F6C342.svg?style=for-the-badge&logo=GoogleMaps&logoColor=white) ![Google Cloud Console](https://img.shields.io/badge/Google_Cloud_Console-%23F6C342.svg?style=for-the-badge&logo=GoogleCloud&logoColor=white) 
+### 💰 Ads & Monetization
+![AdMob](https://img.shields.io/badge/AdMob-E37400?style=for-the-badge&logo=googleads&logoColor=white)
+![Facebook Audience](https://img.shields.io/badge/Facebook_Audience-4267B2?style=for-the-badge&logo=facebook&logoColor=white)
+![Unity Ads](https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)
 
-### **Notifications**
-- ![Firebase Notifications](https://img.shields.io/badge/Firebase_Notifications-%23F6C342.svg?style=for-the-badge&logo=Firebase&logoColor=white) ![Local Notifications](https://img.shields.io/badge/Local_Notifications-%23000000.svg?style=for-the-badge&logo=Android&logoColor=white) 
+### 📊 Analytics & Maps
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Cloud Console](https://img.shields.io/badge/Google_Cloud_Console-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### 🔔 Notifications
+![Firebase Notifications](https://img.shields.io/badge/Firebase_Notifications-FC6C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Local Notifications](https://img.shields.io/badge/Local_Notifications-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### 📦 State Management
+![Provider](https://img.shields.io/badge/Provider-DE3E30?style=for-the-badge&logo=provider&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-0098DB?style=for-the-badge&logo=bloc&logoColor=white)
 
-### **State Management**
-- ![Provider](https://img.shields.io/badge/Provider-%23E74430.svg?style=for-the-badge&logo=Provider&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-%2300C4B3.svg?style=for-the-badge&logo=Bloc&logoColor=white)
+### 🎨 UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### **UI/UX Design**
-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+### 🧰 Dev Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### **Tools & Platforms**
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
+## 📊 GitHub Stats & Trophies
 
-## 📊 GitHub Stats
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifahadislive&show_icons=true&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ifahadislive&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ✍️ Random Dev Quote
+---
 
->
-> "The best way to predict the future is to invent it." — Alan Kay
-> 
->  
+## ✍️ Favorite Quote
+> “The best way to predict the future is to invent it.” — **Alan Kay**
 
+---
 
+## 🎯 Achievements
+- 🏆 Active **open-source contributor** and Flutter package maintainer.
+- 🧑‍🏫 **Educator and mentor** with dozens of tutorials published.
+- 🧪 Experienced in **SCORM**, LMS integration, and Firebase email customization.
+- 📜 Holder of certifications in **Flutter, Firebase, and Mobile Architecture**.
 
-## 🎖️ Achievements & Contributions
-- **Open-Source Contributions**: Actively contributing to Flutter and mobile app development projects.
-- **Community Engagement**: Sharing knowledge through blog posts, YouTube tutorials, and speaking at events.
-- **Certifications**: Earned certifications in Flutter development, Firebase, and mobile app architecture.
+---
 
-##  YouTube Channel - Flutter Tutorials
-As a content creator, I regularly share tutorials, tips, and best practices on my YouTube channel. Whether you're a beginner or an experienced developer, you'll find valuable content here.
+## 📺 YouTube Channel - [Flutter Smashers](https://youtube.com/@FlutterSmashers)
+Check out my tutorials on advanced Flutter topics, Firebase integration, animations, and real-world app development.
 
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@FlutterSmashers)
+[![YouTube](https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@FlutterSmashers)
 
-## 🌐 Connect with Me
-I'm always open to networking, collaborations, and new opportunities. Let's connect:
+---
 
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ifahadislive)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ifahadislive/)
-- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ifahadislive)
+## 🌐 Connect With Me
 
-## 💼 Hire Me
-Looking for a Flutter developer to bring your next project to life? Let's collaborate and create something exceptional together.
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifahadislive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifahadislive)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifahadislive)
 
-## 🏢 About Flutter Smashers
-At **Flutter Smashers**, we focus on empowering developers through:
+---
 
-- **Training & Workshops**: Helping developers level up their skills.
-- **Open-Source Contributions**: Supporting the community with valuable contributions.
-- **Community Building**: Creating a supportive environment for developers to grow.
+## 💼 Let’s Build Something Great
+Are you looking for a **Flutter expert** to supercharge your next mobile project? Let's collaborate and make it happen.
 
-**Explore more about [Flutter Smashers](#).**
+📬 [Contact Me on LinkedIn](https://linkedin.com/in/ifahadislive)
 
-## 💬 Fun Fact
-I love exploring new tech and continuously improving my skills. I’m also passionate about sharing knowledge with others and learning from the community.
+---
