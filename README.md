@@ -1,15 +1,17 @@
-# 👋 Hi, I'm Fahad Safdar — Senior Flutter Developer
+# 👋 Hi, I'm Fahad Safdar — Full Stack Developer
 
-I'm a passionate Flutter Developer with over **4 years of hands-on experience** crafting scalable, high-performance mobile applications. I thrive on solving complex problems and building elegant user experiences that make a real impact.
+I'm a passionate and experienced Full Stack Developer with over **4 years of mobile development experience**, primarily using Flutter, and additional expertise in **web development, backend services, and digital optimization**. I love building modern, scalable apps that not only function smoothly but also deliver a great user experience.
 
 ---
 
 ## 🚀 About Me
-- 💼 **Senior Flutter Developer** at [Flutter Smashers](#), creating cutting-edge apps for Android and iOS.
-- 🎯 Specializing in **cross-platform mobile development**, Firebase integration, and clean architecture.
-- 🌱 Always exploring new tech — recently diving deeper into performance optimization and DevOps for mobile.
-- 🎤 Content creator and mentor, empowering the dev community through tutorials, workshops, and open-source.
-- 🤝 Available for **freelance, collaborations, and consulting** projects.
+- 💼 **Full Stack Developer** with a strong focus on cross-platform mobile apps, backend APIs, and dynamic websites.
+- 📱 Over **4 years of experience** in Flutter & Dart for iOS and Android app development.
+- 🌐 **1+ year experience in WordPress**, building fast, SEO-friendly, and fully responsive websites.
+- 🔧 **1 year of backend development with Node.js**, handling APIs, authentication, and server logic.
+- 🔍 **6 months of hands-on SEO experience**, improving website rankings and visibility across search engines.
+- 📈 I enjoy optimizing performance, integrating Firebase, and working on scalable solutions.
+- 🎤 I’m also a content creator and tech mentor — I love sharing what I learn with the community.
 
 ---
 
@@ -18,10 +20,16 @@ I'm a passionate Flutter Developer with over **4 years of hands-on experience** 
 ### 💻 Languages & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 CMS & SEO
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-00C853?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔧 Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -57,7 +65,7 @@ I'm a passionate Flutter Developer with over **4 years of hands-on experience** 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🧰 Dev Tools & Platforms
+### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -79,21 +87,21 @@ I'm a passionate Flutter Developer with over **4 years of hands-on experience** 
 ---
 
 ## 🎯 Achievements
-- 🏆 Active **open-source contributor** and Flutter package maintainer.
-- 🧑‍🏫 **Educator and mentor** with dozens of tutorials published.
-- 🧪 Experienced in **SCORM**, LMS integration, and Firebase email customization.
-- 📜 Holder of certifications in **Flutter, Firebase, and Mobile Architecture**.
+- 🧪 Built and delivered custom SCORM-compliant learning systems.
+- 🏆 Open-source contributor to Flutter libraries and tools.
+- 📚 Created technical content for YouTube and blog audiences.
+- 📜 Earned certifications in **Flutter**, **Firebase**, and **Mobile App Architecture**.
 
 ---
 
 ## 📺 YouTube Channel - [Flutter Smashers](https://youtube.com/@FlutterSmashers)
-Check out my tutorials on advanced Flutter topics, Firebase integration, animations, and real-world app development.
+Join me as I share Flutter tips, tutorials, and practical coding examples to level up your app development skills.
 
 [![YouTube](https://img.shields.io/badge/Subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@FlutterSmashers)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifahadislive)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifahadislive)
@@ -101,9 +109,9 @@ Check out my tutorials on advanced Flutter topics, Firebase integration, animati
 
 ---
 
-## 💼 Let’s Build Something Great
-Are you looking for a **Flutter expert** to supercharge your next mobile project? Let's collaborate and make it happen.
+## 💼 Looking to Collaborate?
+Whether you're starting a new project or need a developer to jump in and accelerate delivery — I'm open to freelance work, consulting, or full-time roles. Let's build something great together.
 
-📬 [Contact Me on LinkedIn](https://linkedin.com/in/ifahadislive)
+📬 [Message me on LinkedIn](https://linkedin.com/in/ifahadislive)
 
 ---
